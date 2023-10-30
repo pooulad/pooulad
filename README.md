@@ -14,11 +14,5 @@ Hi 👋, I'm pooulad<br>👨‍💻A passionate full-stack developer from Iran<b
 [![](https://visitcount.itsvg.in/api?id=pooulad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pooulad/pooulad/output/snake.svg" alt="Snake animation" />
-
-###
 <a href="https://www.coffeebede.com/poulad"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
