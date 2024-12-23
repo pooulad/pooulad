@@ -1,6 +1,6 @@
 <h2 align="center">Pooulad</h2>
 
-<img src="https://github.com/pooulad/pooulad/blob/main/header.png" height="150" alt="trophy graph"  />
+<img src="https://github.com/pooulad/pooulad/blob/main/header.png" alt="header"  />
 
 ###
 
